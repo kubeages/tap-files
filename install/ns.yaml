@@ -13,9 +13,3 @@ namespaces:
 - name: demo-tap-acmefitness
   pipeline: other
   scanpolicy: strict
-- name: demo-tap-bank
-  pipeline: java
-  scanpolicy: strict
-- name: demo-tap-mobileapp
-  pipeline: java
-  scanpolicy: strict       
