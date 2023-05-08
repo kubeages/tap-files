@@ -14,7 +14,7 @@ namespaces:
   pipeline: other
   scanpolicy: strict
 - name: demo-tap-bank
-  pipeline: other
+  pipeline: java
   scanpolicy: strict
 - name: demo-tap-mobileapp
   pipeline: java
