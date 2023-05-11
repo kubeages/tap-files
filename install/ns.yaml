@@ -13,9 +13,3 @@ namespaces:
 - name: demo-tap-acmefitness
   pipeline: other
   scanpolicy: strict
-- name: demo-where
-  pipeline: java
-  scanpolicy: strict
-- name: demo-where-svc
-  pipeline: none
-  scanpolicy: none
