@@ -10,7 +10,7 @@ namespaces:
 - name: apps3
   pipeline: dotnet
   scanpolicy: strict
-- name: apps3
+- name: apps4
   pipeline: other
   scanpolicy: other  
 - name: demo-tap-acmefitness
