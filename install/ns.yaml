@@ -6,7 +6,7 @@ namespaces:
   scanpolicy: strict
 - name: apps2
   pipeline: java
-  scanpolicy: other
+  scanpolicy: strict
 - name: apps3
   pipeline: dotnet
   scanpolicy: strict
