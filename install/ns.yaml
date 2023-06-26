@@ -8,8 +8,11 @@ namespaces:
   pipeline: java
   scanpolicy: strict
 - name: apps3
-  pipeline: dotnet
+  pipeline: java
   scanpolicy: strict
+- name: apps4
+  pipeline: dotnet
+  scanpolicy: strict  
 - name: demo-tap-acmefitness
   pipeline: other
   scanpolicy: strict
