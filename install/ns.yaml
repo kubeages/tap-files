@@ -11,8 +11,8 @@ namespaces:
   pipeline: java
   scanpolicy: strict
 - name: apps4
-  pipeline: dotnet
-  scanpolicy: strict  
+  pipeline: none
+  scanpolicy: none  
 - name: demo-tap-acmefitness
   pipeline: other
   scanpolicy: strict
