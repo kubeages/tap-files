@@ -16,6 +16,3 @@ namespaces:
 - name: demo-tap-acmefitness
   pipeline: other
   scanpolicy: strict
-- name: eric-ns
-  pipeline: java
-  scanpolicy: strict
