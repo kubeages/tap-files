@@ -16,3 +16,6 @@ namespaces:
 - name: demo-tap-acmefitness
   pipeline: other
   scanpolicy: strict
+- name: demo-claimservice
+  pipeline: none
+  scanpolicy: none  
